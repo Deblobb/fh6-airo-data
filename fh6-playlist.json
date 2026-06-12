@@ -1,0 +1,59 @@
+{
+  "description": "Festival Playlist structure for Forza Horizon 6",
+  "howItWorks": "Monthly rotating selection of challenges. Unlocked at Yellow Wristband. 4 seasons per Series (Summer→Autumn→Winter→Spring), each 7 days. Resets at 14:30 UTC every Thursday.",
+  "challengeTypes": [
+    {
+      "type": "Weekly Challenge",
+      "description": "4 chapters, typically requires owning a specific car. Reward: 25,000 CR + 5 pts"
+    },
+    {
+      "type": "Daily Challenges",
+      "description": "7 challenges (one per day). Reward: 5,000 CR + 1 pt each"
+    },
+    {
+      "type": "Photo Challenge",
+      "description": "Capture a photo of a specified car/location via Horizon Promo"
+    },
+    {
+      "type": "Treasure Hunt",
+      "description": "Solve a photo clue to find hidden treasure"
+    },
+    {
+      "type": "Collectibles",
+      "description": "Collect a specified number of items"
+    },
+    {
+      "type": "The Trial",
+      "description": "Matchmade co-op championship vs Unbeatable Drivatars"
+    },
+    {
+      "type": "EventLab",
+      "description": "Custom player-generated game modes and courses"
+    },
+    {
+      "type": "PR Stunts",
+      "description": "Speed Trap, Speed Zone, Drift Zone, Trailblazer, Danger Sign"
+    },
+    {
+      "type": "Horizon Life",
+      "description": "Time Attack or Drag Meet targets"
+    },
+    {
+      "type": "Seasonal Championship",
+      "description": "Single or co-op championship vs Average Drivatars"
+    },
+    {
+      "type": "Horizon Play",
+      "description": "Online multiplayer events"
+    },
+    {
+      "type": "Monthly Rivals",
+      "description": "Post a clean lap on a specific circuit"
+    }
+  ],
+  "series1": {
+    "name": "Welcome to Japan",
+    "dates": "May 21 – June 18, 2026",
+    "totalPoints": 180
+  }
+}
