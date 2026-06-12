@@ -1,0 +1,518 @@
+=== fh6-events.json ===
+{
+  "description": "Forza Horizon 6 Series 1 Festival Playlist Events",
+  "series": "Series 1 — Welcome to Japan (May 21 – June 18, 2026)",
+  "seasons": {
+    "Summer": {
+      "dates": "May 21 – May 28, 2026",
+      "points": 45
+    },
+    "Autumn": {
+      "dates": "May 28 – June 4, 2026",
+      "points": 45
+    },
+    "Winter": {
+      "dates": "June 4 – June 11, 2026",
+      "points": 45
+    },
+    "Spring": {
+      "dates": "June 11 – June 18, 2026",
+      "points": 45
+    }
+  },
+  "seriesRewards": [
+    {
+      "points": 60,
+      "car": "Mazda Furai 2008",
+      "rarity": "Legendary"
+    },
+    {
+      "points": 120,
+      "car": "Nissan 370Z 2010",
+      "rarity": "Common"
+    }
+  ],
+  "playlistCars": [
+    {
+      "car": "2016 Abarth 695 Biposto",
+      "how": "Complete \"Majestic Domestics\" championship",
+      "season": "Autumn"
+    },
+    {
+      "car": "2021 Aston Martin DBX",
+      "how": "Complete \"Country Living\" championship",
+      "season": "Autumn"
+    },
+    {
+      "car": "1969 Datsun 2000",
+      "how": "Complete \"Be a Good Sport\" championship",
+      "season": "Winter"
+    },
+    {
+      "car": "2022 Ferrari 296 GTB",
+      "how": "Complete \"5 vs 1\" Hide & Seek",
+      "season": "Summer"
+    },
+    {
+      "car": "1995 Ferrari F355 Berlinetta",
+      "how": "Complete \"Hitting the Highway\" championship",
+      "season": "Spring"
+    },
+    {
+      "car": "2020 Ferrari Roma",
+      "how": "Complete \"When in Roma\" championship",
+      "season": "Winter"
+    },
+    {
+      "car": "2003 Ford F-150 SVT Lightning",
+      "how": "Complete \"Floor It!\" Horizon Play",
+      "season": "Summer"
+    },
+    {
+      "car": "1991 Honda CR-X SiR",
+      "how": "Earn 30 points",
+      "season": "Autumn"
+    },
+    {
+      "car": "1988 Lamborghini Countach LP5000 QV",
+      "how": "Complete drift challenge",
+      "season": "Winter"
+    },
+    {
+      "car": "2020 Lamborghini Huracán EVO",
+      "how": "Complete \"Mazda of the Mountain\" touge",
+      "season": "Autumn"
+    },
+    {
+      "car": "2023 Lotus Emira",
+      "how": "Complete collectibles challenge",
+      "season": "Winter"
+    },
+    {
+      "car": "2018 Lotus Exige Cup 430",
+      "how": "Complete The Eliminator",
+      "season": "Winter"
+    },
+    {
+      "car": "2004 Maserati MC12",
+      "how": "Complete \"Instant Classic\" championship",
+      "season": "Spring"
+    },
+    {
+      "car": "2008 Mazda Furai",
+      "how": "Earn 60 points in Series",
+      "season": "Series"
+    },
+    {
+      "car": "2021 McLaren Sabre",
+      "how": "Complete \"Throwback Throwdown\" championship",
+      "season": "Summer"
+    },
+    {
+      "car": "2021 MINI John Cooper Works GP",
+      "how": "Complete \"Spring into Action\" championship",
+      "season": "Spring"
+    },
+    {
+      "car": "2006 Mitsubishi Lancer Evolution IX MR",
+      "how": "Earn 30 points",
+      "season": "Summer"
+    },
+    {
+      "car": "2010 Nissan 370Z",
+      "how": "Earn 120 points in Series",
+      "season": "Series"
+    },
+    {
+      "car": "1987 Nissan Be-1",
+      "how": "Complete \"Tokyo City Food Delivery\" job",
+      "season": "Autumn"
+    },
+    {
+      "car": "1997 Nissan Skyline GT-R V-Spec",
+      "how": "Earn 15 points",
+      "season": "Autumn"
+    },
+    {
+      "car": "2022 Pagani Huayra R",
+      "how": "Complete \"Street Fighter\" championship",
+      "season": "Summer"
+    },
+    {
+      "car": "1967 Renault 8 Gordini",
+      "how": "Complete \"Monsters on Mud\" championship",
+      "season": "Winter"
+    },
+    {
+      "car": "2017 Saleen S7 LM",
+      "how": "Complete Horizon Play challenge",
+      "season": "Spring"
+    },
+    {
+      "car": "1993 Schuppan 962CR",
+      "how": "Complete \"Trail Mix\" championship",
+      "season": "Autumn"
+    },
+    {
+      "car": "2019 Subaru STI S209",
+      "how": "Earn 15 points",
+      "season": "Winter"
+    },
+    {
+      "car": "1999 Toyota Altezza RS200 Z EDITION",
+      "how": "Earn 15 points",
+      "season": "Summer"
+    },
+    {
+      "car": "1974 Toyota Corolla SR5",
+      "how": "Earn 30 points",
+      "season": "Spring"
+    },
+    {
+      "car": "2016 Toyota Land Cruiser Arctic Trucks AT37",
+      "how": "Earn 30 points",
+      "season": "Winter"
+    },
+    {
+      "car": "1989 Toyota MR2 SC",
+      "how": "Complete \"Hot Like Summer\" championship",
+      "season": "Summer"
+    },
+    {
+      "car": "1996 Toyota Starlet Glanza V",
+      "how": "Earn 15 points",
+      "season": "Spring"
+    }
+  ],
+  "summerEvents": [
+    {
+      "type": "Seasonal Championship",
+      "name": "Hot Like Summer",
+      "class": "C 401-500",
+      "category": "Retro Hot Hatch",
+      "reward": "Toyota MR2 '89",
+      "rarity": "Epic",
+      "points": 5
+    },
+    {
+      "type": "Seasonal Championship",
+      "name": "Street Fighter",
+      "class": "A 601-700",
+      "category": "Modern Super Saloons",
+      "reward": "Pagani Huayra R '22",
+      "rarity": "Legendary",
+      "points": 5
+    },
+    {
+      "type": "Seasonal Championship",
+      "name": "Throwback Throwdown",
+      "class": "B 501-600",
+      "category": "Retro Rally",
+      "reward": "McLaren Sabre '21",
+      "rarity": "Epic",
+      "points": 5
+    },
+    {
+      "type": "Time Attack",
+      "name": "Sekibe Time Attack",
+      "class": "A 601-700",
+      "category": "Japan",
+      "reward": "Wheelspin",
+      "rarity": "",
+      "points": 2
+    },
+    {
+      "type": "Danger Sign",
+      "name": "Airfield Takeoff",
+      "class": "A 601-700",
+      "category": "Japan",
+      "reward": "Wheelspin",
+      "rarity": "",
+      "points": 2
+    },
+    {
+      "type": "Speed Trap",
+      "name": "Bamboo Hilltop",
+      "class": "A 601-700",
+      "category": "Japan",
+      "reward": "Wheelspin",
+      "rarity": "",
+      "points": 2
+    },
+    {
+      "type": "Horizon Play",
+      "name": "Floor It!",
+      "class": "",
+      "category": "",
+      "reward": "Ford Lightning",
+      "rarity": "Common",
+      "points": 2
+    },
+    {
+      "type": "Hide & Seek",
+      "name": "5 vs 1",
+      "class": "",
+      "category": "",
+      "reward": "Ferrari 296 GTB",
+      "rarity": "Epic",
+      "points": 2
+    },
+    {
+      "type": "Monthly Rivals",
+      "name": "Soni Circuit",
+      "class": "",
+      "category": "",
+      "reward": "Super Wheelspin",
+      "rarity": "",
+      "points": 1
+    }
+  ]
+}
+
+=== fh6-game-info.json ===
+{
+  "title": "Forza Horizon 6",
+  "tagline": "Welcome to Japan",
+  "developer": "Playground Games",
+  "publisher": "Xbox Game Studios",
+  "genre": "Open-World Racing / Arcade",
+  "releaseDate": "May 19, 2026",
+  "platforms": [
+    "Xbox Series X/S",
+    "Windows PC (MS Store)",
+    "Steam",
+    "PlayStation 5 (post-launch)",
+    "Xbox Cloud Gaming"
+  ],
+  "setting": "Japan \u2014 Mt. Fuji, Tokyo, Alpine regions, Coastal areas, Highlands, Lowlands, Plains",
+  "carCount": 550,
+  "ratings": {
+    "PEGI": "3+",
+    "ESRB": "Everyone",
+    "USK": "0",
+    "CERO": "B",
+    "ACB": "G"
+  },
+  "editions": [
+    {
+      "name": "Standard",
+      "price": "\u00a354.99",
+      "includes": [
+        "Base game"
+      ],
+      "gamePass": true
+    },
+    {
+      "name": "Deluxe",
+      "price": "\u00a379.99",
+      "includes": [
+        "Base game",
+        "Car Pass",
+        "Welcome Pack"
+      ]
+    },
+    {
+      "name": "Premium",
+      "price": "\u00a399.99",
+      "includes": [
+        "Base game",
+        "Car Pass",
+        "Expansion 1",
+        "Expansion 2",
+        "Time Attack Pack",
+        "Italian Passion Pack",
+        "VIP Membership",
+        "Welcome Pack",
+        "4-day early access"
+      ]
+    }
+  ],
+  "preorderBonus": "Exclusive pre-tuned Ferrari J50",
+  "keyFeatures": [
+    {
+      "feature": "Horizon Festival Japan",
+      "description": "Race across a stunning recreation of Japan including Tokyo, Mt. Fuji, mountain passes and coastal roads"
+    },
+    {
+      "feature": "Changing Seasons",
+      "description": "Spring, Summer, Autumn and Winter each transform the world \u2014 weather, activities and sound all shift"
+    },
+    {
+      "feature": "550+ Cars",
+      "description": "Sports cars, off-roaders, kei cars, hot hatches, time attack cars and more"
+    },
+    {
+      "feature": "Car Meets",
+      "description": "Open-world meets at Horizon Festival, Okuibuki and Daikoku \u2014 download tunes, liveries, show off your build"
+    },
+    {
+      "feature": "Drag Meets",
+      "description": "12-player open-world drag races with synchronised start trees and leaderboards"
+    },
+    {
+      "feature": "Touge Battles",
+      "description": "Night-time hillside races down Japanese mountain passes"
+    },
+    {
+      "feature": "Legend Island",
+      "description": "Unlock an exclusive region with special events and the Legends Island Circuit by earning the Gold Wristband"
+    },
+    {
+      "feature": "Player Houses",
+      "description": "7 properties across Japan with fully customisable garages \u2014 share your designs with the community"
+    },
+    {
+      "feature": "The Estate",
+      "description": "Build your own permanent open-world property \u2014 other players can visit"
+    },
+    {
+      "feature": "EventLab",
+      "description": "Build custom tracks anywhere on the map in co-op with up to 12 players"
+    },
+    {
+      "feature": "Horizon Rush Events",
+      "description": "New obstacle-based skill events"
+    },
+    {
+      "feature": "Collection Journal",
+      "description": "Discover cars, tracks, landmarks and mascots \u2014 unlock stamps"
+    },
+    {
+      "feature": "Cross-Play & Cross-Save",
+      "description": "Xbox, PC and PlayStation 5 \u2014 play together, save anywhere"
+    },
+    {
+      "feature": "Performance Index Overhaul",
+      "description": "New R class for track-focused cars, improved balance across all classes"
+    },
+    {
+      "feature": "Auto Drive",
+      "description": "Set a destination and let the game drive you there"
+    }
+  ],
+  "loyaltyRewards": [
+    {
+      "game": "Forza Horizon",
+      "year": 2012,
+      "car": "2013 Dodge SRT Viper GTS"
+    },
+    {
+      "game": "Forza Horizon 2",
+      "year": 2014,
+      "car": "Lamborghini Hurac\u00e1n LP 610-4"
+    },
+    {
+      "game": "Forza Horizon 3",
+      "year": 2016,
+      "car": "Lamborghini Centenario LP 770-4"
+    },
+    {
+      "game": "Forza Horizon 4",
+      "year": 2018,
+      "car": "Aston Martin Vulcan"
+    },
+    {
+      "game": "Forza Horizon 5",
+      "year": 2021,
+      "car": "Mercedes-AMG ONE"
+    },
+    {
+      "game": "Forza Motorsport (2023)",
+      "year": 2023,
+      "car": "Chevrolet Corvette E-Ray"
+    }
+  ],
+  "coverCars": [
+    "2025 GR GT Prototype",
+    "2025 Toyota Land Cruiser"
+  ],
+  "launchTrailerSong": "\"Enchanting Stranger\" by Milk Talk",
+  "images": {
+    "boxart": {
+      "standard": "https://static.wikia.nocookie.net/forzamotorsport/images/3/33/FH6_Boxart.jpg/revision/latest?cb=20260123050250",
+      "deluxe": "https://static.wikia.nocookie.net/forzamotorsport/images/2/20/FH6_Deluxe_Boxart.jpg/revision/latest?cb=20260123044226",
+      "premium": "https://static.wikia.nocookie.net/forzamotorsport/images/5/53/FH6_Premium_Boxart.jpg/revision/latest?cb=20260123044236"
+    },
+    "map": {
+      "summer": "https://static.wikia.nocookie.net/forzamotorsport/images/5/5d/FH6_Map_Summer.jpg/revision/latest?cb=20260408150103"
+    },
+    "promotional": [
+      "https://static.wikia.nocookie.net/forzamotorsport/images/1/1b/FH6_Promotional_1.jpg/revision/latest?cb=20260123044259",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/2/28/FH6_Promotional_2.jpg/revision/latest?cb=20260123044309",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/8/84/FH6_Promotional_3.jpg/revision/latest?cb=20260123044319",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/e/ea/FH6_Promotional_4.jpg/revision/latest?cb=20260123044330",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/7/70/FH6_Promotional_5.jpg/revision/latest?cb=20260123044339",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/0/09/FH6_Promotional_6.jpg/revision/latest?cb=20260123044355",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/6/6a/FH6_Promotional_7.jpg/revision/latest?cb=20260123044405",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/2/28/FH6_Promotional_8.jpg/revision/latest?cb=20260123044414",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/d/db/FH6_Promotional_9.jpg/revision/latest?cb=20260123044425",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/d/d7/FH6_Promotional_10.jpg/revision/latest?cb=20260123044436",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/a/a2/FH6_Promotional_11.jpg/revision/latest?cb=20260123044445",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/a/a2/FH6_Promotional_12.jpg/revision/latest?cb=20260123044454"
+    ],
+    "gameIcon": "https://static.wikia.nocookie.net/forzamotorsport/images/0/09/Icon_Game_ForzaHorizon6.png/revision/latest?format=original",
+    "note": "Car images are embedded as 'imageUrl' per car entry in fh6-cars.json. All URLs hotlink directly from the Forza Fandom CDN."
+  }
+}
+
+=== fh6-playlist.json ===
+{
+  "description": "Festival Playlist structure for Forza Horizon 6",
+  "howItWorks": "Monthly rotating selection of challenges. Unlocked at Yellow Wristband. 4 seasons per Series (Summer→Autumn→Winter→Spring), each 7 days. Resets at 14:30 UTC every Thursday.",
+  "challengeTypes": [
+    {
+      "type": "Weekly Challenge",
+      "description": "4 chapters, typically requires owning a specific car. Reward: 25,000 CR + 5 pts"
+    },
+    {
+      "type": "Daily Challenges",
+      "description": "7 challenges (one per day). Reward: 5,000 CR + 1 pt each"
+    },
+    {
+      "type": "Photo Challenge",
+      "description": "Capture a photo of a specified car/location via Horizon Promo"
+    },
+    {
+      "type": "Treasure Hunt",
+      "description": "Solve a photo clue to find hidden treasure"
+    },
+    {
+      "type": "Collectibles",
+      "description": "Collect a specified number of items"
+    },
+    {
+      "type": "The Trial",
+      "description": "Matchmade co-op championship vs Unbeatable Drivatars"
+    },
+    {
+      "type": "EventLab",
+      "description": "Custom player-generated game modes and courses"
+    },
+    {
+      "type": "PR Stunts",
+      "description": "Speed Trap, Speed Zone, Drift Zone, Trailblazer, Danger Sign"
+    },
+    {
+      "type": "Horizon Life",
+      "description": "Time Attack or Drag Meet targets"
+    },
+    {
+      "type": "Seasonal Championship",
+      "description": "Single or co-op championship vs Average Drivatars"
+    },
+    {
+      "type": "Horizon Play",
+      "description": "Online multiplayer events"
+    },
+    {
+      "type": "Monthly Rivals",
+      "description": "Post a clean lap on a specific circuit"
+    }
+  ],
+  "series1": {
+    "name": "Welcome to Japan",
+    "dates": "May 21 – June 18, 2026",
+    "totalPoints": 180
+  }
+}
+
