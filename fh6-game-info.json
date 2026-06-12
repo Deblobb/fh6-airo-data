@@ -12,7 +12,7 @@
     "PlayStation 5 (post-launch)",
     "Xbox Cloud Gaming"
   ],
-  "setting": "Japan — Mt. Fuji, Tokyo, Alpine regions, Coastal areas, Highlands, Lowlands, Plains",
+  "setting": "Japan \u2014 Mt. Fuji, Tokyo, Alpine regions, Coastal areas, Highlands, Lowlands, Plains",
   "carCount": 550,
   "ratings": {
     "PEGI": "3+",
@@ -24,7 +24,7 @@
   "editions": [
     {
       "name": "Standard",
-      "price": "£54.99",
+      "price": "\u00a354.99",
       "includes": [
         "Base game"
       ],
@@ -32,7 +32,7 @@
     },
     {
       "name": "Deluxe",
-      "price": "£79.99",
+      "price": "\u00a379.99",
       "includes": [
         "Base game",
         "Car Pass",
@@ -41,7 +41,7 @@
     },
     {
       "name": "Premium",
-      "price": "£99.99",
+      "price": "\u00a399.99",
       "includes": [
         "Base game",
         "Car Pass",
@@ -63,7 +63,7 @@
     },
     {
       "feature": "Changing Seasons",
-      "description": "Spring, Summer, Autumn and Winter each transform the world — weather, activities and sound all shift"
+      "description": "Spring, Summer, Autumn and Winter each transform the world \u2014 weather, activities and sound all shift"
     },
     {
       "feature": "550+ Cars",
@@ -71,7 +71,7 @@
     },
     {
       "feature": "Car Meets",
-      "description": "Open-world meets at Horizon Festival, Okuibuki and Daikoku — download tunes, liveries, show off your build"
+      "description": "Open-world meets at Horizon Festival, Okuibuki and Daikoku \u2014 download tunes, liveries, show off your build"
     },
     {
       "feature": "Drag Meets",
@@ -87,11 +87,11 @@
     },
     {
       "feature": "Player Houses",
-      "description": "7 properties across Japan with fully customisable garages — share your designs with the community"
+      "description": "7 properties across Japan with fully customisable garages \u2014 share your designs with the community"
     },
     {
       "feature": "The Estate",
-      "description": "Build your own permanent open-world property — other players can visit"
+      "description": "Build your own permanent open-world property \u2014 other players can visit"
     },
     {
       "feature": "EventLab",
@@ -103,11 +103,11 @@
     },
     {
       "feature": "Collection Journal",
-      "description": "Discover cars, tracks, landmarks and mascots — unlock stamps"
+      "description": "Discover cars, tracks, landmarks and mascots \u2014 unlock stamps"
     },
     {
       "feature": "Cross-Play & Cross-Save",
-      "description": "Xbox, PC and PlayStation 5 — play together, save anywhere"
+      "description": "Xbox, PC and PlayStation 5 \u2014 play together, save anywhere"
     },
     {
       "feature": "Performance Index Overhaul",
@@ -127,7 +127,7 @@
     {
       "game": "Forza Horizon 2",
       "year": 2014,
-      "car": "Lamborghini Huracán LP 610-4"
+      "car": "Lamborghini Hurac\u00e1n LP 610-4"
     },
     {
       "game": "Forza Horizon 3",
@@ -154,5 +154,31 @@
     "2025 GR GT Prototype",
     "2025 Toyota Land Cruiser"
   ],
-  "launchTrailerSong": "\"Enchanting Stranger\" by Milk Talk"
+  "launchTrailerSong": "\"Enchanting Stranger\" by Milk Talk",
+  "images": {
+    "boxart": {
+      "standard": "https://static.wikia.nocookie.net/forzamotorsport/images/3/33/FH6_Boxart.jpg/revision/latest?cb=20260123050250",
+      "deluxe": "https://static.wikia.nocookie.net/forzamotorsport/images/2/20/FH6_Deluxe_Boxart.jpg/revision/latest?cb=20260123044226",
+      "premium": "https://static.wikia.nocookie.net/forzamotorsport/images/5/53/FH6_Premium_Boxart.jpg/revision/latest?cb=20260123044236"
+    },
+    "map": {
+      "summer": "https://static.wikia.nocookie.net/forzamotorsport/images/5/5d/FH6_Map_Summer.jpg/revision/latest?cb=20260408150103"
+    },
+    "promotional": [
+      "https://static.wikia.nocookie.net/forzamotorsport/images/1/1b/FH6_Promotional_1.jpg/revision/latest?cb=20260123044259",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/2/28/FH6_Promotional_2.jpg/revision/latest?cb=20260123044309",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/8/84/FH6_Promotional_3.jpg/revision/latest?cb=20260123044319",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/e/ea/FH6_Promotional_4.jpg/revision/latest?cb=20260123044330",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/7/70/FH6_Promotional_5.jpg/revision/latest?cb=20260123044339",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/0/09/FH6_Promotional_6.jpg/revision/latest?cb=20260123044355",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/6/6a/FH6_Promotional_7.jpg/revision/latest?cb=20260123044405",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/2/28/FH6_Promotional_8.jpg/revision/latest?cb=20260123044414",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/d/db/FH6_Promotional_9.jpg/revision/latest?cb=20260123044425",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/d/d7/FH6_Promotional_10.jpg/revision/latest?cb=20260123044436",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/a/a2/FH6_Promotional_11.jpg/revision/latest?cb=20260123044445",
+      "https://static.wikia.nocookie.net/forzamotorsport/images/a/a2/FH6_Promotional_12.jpg/revision/latest?cb=20260123044454"
+    ],
+    "gameIcon": "https://static.wikia.nocookie.net/forzamotorsport/images/0/09/Icon_Game_ForzaHorizon6.png/revision/latest?format=original",
+    "note": "Car images are embedded as 'imageUrl' per car entry in fh6-cars.json. All URLs hotlink directly from the Forza Fandom CDN."
+  }
 }
